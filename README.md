@@ -4,7 +4,8 @@
 [`bodge-nuklear-renderer`](https://github.com/borodust/bodge-nuklear-renderer)
 wrapper.
 
-`x86_64` and `i686` versions for GNU/Linux, macOS and Windows are included.
+`x86_64` and `i686` versions for GNU/Linux, macOS and Windows are included,
+also, GNU/Linux `ppc64` and `ppc64le`.
 
 # Loading
 ```lisp
